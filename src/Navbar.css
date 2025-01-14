@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar h1 {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.prices {
+    display: flex;
+    gap: 15px;
+}
+
+.prices p {
+    margin: 0;
+    font-size: 1em;
+}
